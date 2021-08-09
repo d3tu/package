@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owner/package.git"
+  },
+  "keywords": [],
+  "author": "d3tu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owner/package/issues"
+  },
+  "homepage": "https://github.com/owner/package#readme"
+} 
